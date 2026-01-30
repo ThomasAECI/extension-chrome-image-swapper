@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Image Swapper Pro",
+  "version": "1.2",
+  "description": "Remplacez n'importe quelle image par une URL d'un simple clic.",
+  "icons": {
+    "16": "image-swapper-16x16.png",
+    "48": "image-swapper-48x48.png",
+    "128": "image-swapper-128x128.png"
+  },
+  "permissions": ["contextMenus", "activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
