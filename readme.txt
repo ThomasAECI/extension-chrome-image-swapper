@@ -22,7 +22,7 @@ Comme cette extension n'est pas encore sur le Chrome Web Store, voici comment l'
 ## 🛠️ Utilisation
 1. Rendez-vous sur n'importe quel site web.
 2. Faites un **clic droit** sur l'image que vous souhaitez modifier.
-3. Sélectionnez **🖼️ Remplacer l'image par une URL**.
+3. Sélectionnez **Remplacer l'image par une URL**.
 4. Collez l'URL de votre nouvelle image dans la fenêtre qui s'affiche.
 5. Validez ! L'image est remplacée instantanément.
 

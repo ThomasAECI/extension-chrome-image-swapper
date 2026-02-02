@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Image Swapper Pro",
-  "version": "1.2",
-  "description": "Remplacez n'importe quelle image par une URL d'un simple clic.",
+  "name": "QuickSwap Editor",
+  "version": "2.0",
+  "description": "Modifiez instantanément images, titres et textes sur n'importe quel site.",
   "icons": {
     "16": "image-swapper-16x16.png",
     "48": "image-swapper-48x48.png",
